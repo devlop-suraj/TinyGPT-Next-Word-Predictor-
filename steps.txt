@@ -1,0 +1,6 @@
+What We're Doing Today:
+Building a Mini GPT Model Using PyTorch
+(A tiny language model that predicts the next word)
+End-to-end implementation:
+dataset + tokenization + model + training + inference
+
